@@ -5,9 +5,9 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 
 # Replace these with your credentials
-API_ID = "21705536"
-API_HASH = "c5bb241f6e3ecf33fe68a444e288de2d"
-BOT_TOKEN = "7694154149:AAF2RNkhIkTnYqt4uG9AaqQyJwHKQp5fzpE"
+API_ID = "22594398"
+API_HASH = "3a2408d97d6a222d87766dac2da302df"
+BOT_TOKEN = "7653711439:AAF2xks0h6DxX8Dl8C_pSVVEE-W8ilbhG9g"
 # Initialize the Pyrogram client
 app = Client("my_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
